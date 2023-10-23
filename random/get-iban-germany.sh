@@ -57,3 +57,4 @@ function generateGermanIBAN {
 
 germanIBAN=$(generateGermanIBAN)
 echo "$germanIBAN" | pbcopy
+osascript -e 'tell application "System Events" to key code 53'
