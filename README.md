@@ -1,4 +1,4 @@
-# Custom Script Integration for Raycast Command Bar
+# Custom Script Integration for Raycast Command Bar on MacOS
 
 I have created a guide to help you integrate custom scripts with Raycast's command bar, making it easier for you to execute various commands. :+1:
 
