@@ -2,7 +2,7 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title Get car by id
+# @raycast.title Get car by vin
 # @raycast.mode fullOutput
 
 # Optional parameters:
@@ -10,7 +10,7 @@
 # @raycast.argument1 { "type": "text", "placeholder": "vin", "percentEncoded": true }
 
 # Documentation:
-# @raycast.description Get's car
+# @raycast.description Opens cars retool and searches for car by vin
 # @raycast.author Mohammed Faour
 # @raycast.authorURL github.com/mfaour34
 

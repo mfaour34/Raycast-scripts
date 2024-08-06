@@ -10,7 +10,7 @@
 # @raycast.argument1 { "type": "text", "placeholder": "carId", "percentEncoded": true }
 
 # Documentation:
-# @raycast.description Get's car
+# @raycast.description Opens cars retool and searches for car by id
 # @raycast.author Mohammed Faour
 # @raycast.authorURL github.com/mfaour34
 
